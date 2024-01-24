@@ -1,0 +1,20 @@
+h1 {
+    color: red;
+}
+
+/* h2 {
+    color: green;
+} */
+
+#tituloverde {
+    color: green;
+}
+
+.tituloazul {
+    color: blue;
+}
+
+h3 {
+    color: yellow; 
+    background-color: #d5d5d5;
+}
